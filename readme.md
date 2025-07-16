@@ -1,5 +1,7 @@
 # 🌐 Integrando MCP com Computação Quântica: Amazon Braket
 
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/376f3c4a-71dd-4ae4-8cdf-2d9bcdf42c71)
+
 ## 📑 Índice
 
 - [Introdução](#introdução)
