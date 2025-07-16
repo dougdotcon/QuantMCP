@@ -1,7 +1,7 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dougdotcon-quantmcp-badge.png)](https://mseep.ai/app/dougdotcon-quantmcp)
+
 
 # 🌐 Integrando MCP com Computação Quântica: Amazon Braket
-
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/376f3c4a-71dd-4ae4-8cdf-2d9bcdf42c71)
 ## 📑 Índice
 
 - [Introdução](#introdução)
@@ -284,3 +284,5 @@ server.start();
 A integração entre o Model Context Protocol e a computação quântica via Amazon Braket abre novas possibilidades para democratizar o acesso à computação quântica e acelerar a pesquisa neste campo. Ao permitir que assistentes de IA interajam diretamente com dispositivos quânticos, podemos criar interfaces mais intuitivas para esta tecnologia complexa, facilitando sua adoção e aplicação em problemas do mundo real.
 
 Embora estejamos ainda nos estágios iniciais desta integração, o potencial para transformar campos como descoberta de medicamentos, otimização logística, segurança cibernética e inteligência artificial é imenso. À medida que tanto o MCP quanto a computação quântica amadurecem, podemos esperar avanços significativos na forma como interagimos com sistemas quânticos e aproveitamos seu poder computacional único. 
+
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dougdotcon-quantmcp-badge.png)](https://mseep.ai/app/dougdotcon-quantmcp)
