@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dougdotcon-quantmcp-badge.png)](https://mseep.ai/app/dougdotcon-quantmcp)
+
 # 🌐 Integrando MCP com Computação Quântica: Amazon Braket
 
 ## 📑 Índice
